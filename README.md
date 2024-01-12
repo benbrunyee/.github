@@ -7,9 +7,9 @@
 
 </div>
 
-# Digital Field
+# Project Name
 
-"Digital Field is a sophisticated web and mobile application designed for efficient field data collection. It features a modular architecture, separating data collection from output formatting. This design enables extensive customization in generating representations of the collected data, such as PDFs. Its user-friendly interface streamlines the process, making it accessible and effective for diverse data collection needs.
+Description
 
 ## Contributing
 
@@ -28,7 +28,7 @@ Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Demo
 
-Live version [Digital Field](https://digital-field.com)
+Live version [link](link)
 
 ## Screenshots
 
